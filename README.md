@@ -26,66 +26,59 @@
 
 ---
 
+
 ## 🚀 Project Showcase
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/vaishalisen2002/Deepfake-detector">
-        <img src="https://raw.githubusercontent.com/vaishalisen2002/Deepfake-detector/main/assets/preview.png"
+        <img src="https://raw.githubusercontent.com/vaishalisen2002/vaishalisen2002/main/deepfake.png"
              alt="Deepfake Detector"
-             onerror="this.src='https://via.placeholder.com/400x200/1a1a2e/a855f7?text=Deepfake+Detector'"
-             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/>
+             width="100%"
+             height="200px"
+             style="object-fit:cover;"/>
       </a>
-      <br/><br/>
+      <br/>
       <b>🕵️ Deepfake Detector</b><br/>
-      <sub>MesoNet-4 powered deepfake detection model trained on large-scale datasets. Detects manipulated faces with high accuracy using custom preprocessing pipelines.</sub><br/><br/>
+      <sub>MesoNet-4 powered deepfake detection model trained on large-scale datasets. Detects manipulated faces with high accuracy using custom preprocessing pipelines.</sub><br/>
       🔗 <a href="https://github.com/vaishalisen2002/Deepfake-detector">Repo</a>
-      <br/><br/>
-      <sub>
-        ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-        ![CV](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
-      </sub>
+      <br/>
+      <sub>Tags: TensorFlow, Computer Vision, Deep Learning</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/vaishalisen2002/Predicting-multiple-intelligences-using-ai">
-        <img src="https://raw.githubusercontent.com/vaishalisen2002/Predicting-multiple-intelligences-using-ai/main/assets/preview.png"
+        <img src="https://raw.githubusercontent.com/vaishalisen2002/vaishalisen2002/main/prdictingai.png"
              alt="Multiple Intelligences AI"
-             onerror="this.src='https://via.placeholder.com/400x200/1a1a2e/a855f7?text=Intelligence+Predictor'"
-             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/>
+             width="100%"
+             height="200px"
+             style="object-fit:cover;"/>
       </a>
-      <br/><br/>
+      <br/>
       <b>🧠 Predicting Multiple Intelligences</b><br/>
-      <sub>Flask web app + AI chatbot that profiles cognitive strengths using Howard Gardner's theory, Sentence Transformers & Google Gemini API for adaptive question generation.</sub><br/><br/>
+      <sub>Flask web app + AI chatbot that profiles cognitive strengths using Howard Gardner's theory, Sentence Transformers & Google Gemini API for adaptive question generation.</sub><br/>
       🔗 <a href="https://github.com/vaishalisen2002/Predicting-multiple-intelligences-using-ai">Repo</a>
-      <br/><br/>
-      <sub>
-        ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-        ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-        ![NLP](https://img.shields.io/badge/NLP-10B981?style=flat-square)
-      </sub>
+      <br/>
+      <sub>Tags: Flask, Gemini API, NLP, Sentence Transformers</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/vaishalisen2002/Trading_BOT">
-        <img src="https://raw.githubusercontent.com/vaishalisen2002/Trading_BOT/main/assets/preview.png"
+        <img src="https://raw.githubusercontent.com/vaishalisen2002/vaishalisen2002/main/binance.png"
              alt="Trading Bot"
-             onerror="this.src='https://via.placeholder.com/400x200/1a1a2e/a855f7?text=Trading+Bot'"
-             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/>
+             width="100%"
+             height="200px"
+             style="object-fit:cover;"/>
       </a>
-      <br/><br/>
+      <br/>
       <b>📈 Algorithmic Trading Bot</b><br/>
-      <sub>Automated crypto trading bot using Binance API with MA7, MA25, MA99 moving average strategies. Tracks BTC/USDT in real-time with live signal generation.</sub><br/><br/>
+      <sub>Automated crypto trading bot using Binance API with MA7, MA25, MA99 moving average strategies. Tracks BTC/USDT in real-time with live signal generation.</sub><br/>
       🔗 <a href="https://github.com/vaishalisen2002/Trading_BOT">Repo</a>
-      <br/><br/>
-      <sub>
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-        ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=black)
-        ![AlgoTrading](https://img.shields.io/badge/Algo_Trading-059669?style=flat-square)
-      </sub>
+      <br/>
+      <sub>Tags: Python, Binance API, Algo Trading</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -122,6 +115,6 @@ currently_leveling_up = [
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vaishali-sen&color=7c3aed&style=flat-square&label=Profile+Views)
 
-![Thank You](https://media4.giphy.com/media/Nf5tcniuOEX0EydR5U/giphy.gif)
+
 
 </div>
