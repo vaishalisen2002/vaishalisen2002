@@ -11,7 +11,7 @@
 ## About Me
 
 -🤖 Developing AI that thinks, reasons, and does stuff - from multi-agent pipelines to deployed RAG chatbots.
-- 🎓 Graduate in **BE AI & Data Science** from VESIT, Mumbai (GPA: 8.3).
+- 🎓 Graduate in **BE AI & Data Science** from VESIT, Mumbai 
 - 💼 Worked as **Generative AI Intern at Gray Matrix** - developed products involving LLMs which are being used by real banks.
 - 🔨 Addicted to making stuff using AI - whatever the problem is, chances are high I've made a model for solving it.
 - 🚀 Constantly trying out new stuff - Deepfakes, Cognitive AI, Trading bots, Agentic Pipelines - name something about AI.
@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,langchain,git,github,flask,mongodb,docker,vscode&theme=dark)](https://skillicons.dev)
 
-**Also comfortable with**: LangGraph · CrewAI · n8n · RAG pipelines · Sentence Transformers · Pandas · NumPy · RAGAS · Trulens · GPT-4 · Anthropic Claude · AWS Bedrock
+**Also comfortable with**: LangGraph · CrewAI · n8n · RAG pipelines · Sentence Transformers · Pandas · NumPy · RAGAS · Trulens · LLMs
 
 ---
 
