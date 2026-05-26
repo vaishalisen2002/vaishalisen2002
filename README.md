@@ -167,5 +167,6 @@ Built a **Retrieval-Augmented Generation** chatbot for Punjab National Bank usin
 *"Building AI systems that don't just compute — they understand."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vaishali-sen&color=7c3aed&style=flat-square&label=Profile+Views)
+![Thank You](https://media4.giphy.com/media/Nf5tcniuOEX0EydR5U/giphy.gif)
 
 </div>
