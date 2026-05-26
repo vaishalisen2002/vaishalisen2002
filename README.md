@@ -111,7 +111,7 @@ currently_leveling_up = [
 
 <div align="center">
 
-*"Building AI systems that don't just compute — they understand."*
+*"Building AI systems that don't just compute but understand."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vaishali-sen&color=7c3aed&style=flat-square&label=Profile+Views)
 
