@@ -1,5 +1,7 @@
 <div align="center">
 
+![AI GIF](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   V A I S H A L I   S E N   ·   AI/ML Engineer      ║
@@ -167,4 +169,3 @@ Built a **Retrieval-Augmented Generation** chatbot for Punjab National Bank usin
 ![Visitor Count](https://komarev.com/ghpvc/?username=vaishali-sen&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
-
