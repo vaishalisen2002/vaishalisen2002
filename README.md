@@ -8,13 +8,13 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-- 🤖 I build AI systems that think, reason, and act — from multi-agent pipelines to RAG chatbots in production.
-- 🎓 Final year BE student in **AI & Data Science** at VESIT, Mumbai (GPA: 8.3).
-- 🔬 Currently interning as a **Generative AI Engineer** — shipping LLM-powered products used by real banks.
-- 🌐 Passionate about making AI accessible and building things that actually matter.
-- 💡 Always experimenting — deepfakes, cognitive AI, trading bots, agentic workflows. If it's AI, I'm in.
+-🤖 Developing AI that thinks, reasons, and does stuff - from multi-agent pipelines to deployed RAG chatbots.
+- 🎓 Graduate in **BE AI & Data Science** from VESIT, Mumbai (GPA: 8.3).
+- 💼 Worked as **Generative AI Intern at Gray Matrix** - developed products involving LLMs which are being used by real banks.
+- 🔨 Addicted to making stuff using AI - whatever the problem is, chances are high I've made a model for solving it.
+- 🚀 Constantly trying out new stuff - Deepfakes, Cognitive AI, Trading bots, Agentic Pipelines - name something about AI.
 
 ---
 
